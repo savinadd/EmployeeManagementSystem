@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "Em9tPpcJykN+SWEPeA8O1BdZsXmCE4cZlDVhUlGhjU5OlSwhbh/CdfuUn1qRMZmkdndKm7nM7QAPtCAjo2GQoQ==",
+  "success": true,
+  "projectFilePath": "/home/savina/EmployeeManagementSystem/EmployeeManagementSystem/EmployeeManagementSystem.csproj",
+  "expectedPackageFiles": [
+    "/home/savina/.nuget/packages/microsoft.aspnetcore.app.ref/6.0.8/microsoft.aspnetcore.app.ref.6.0.8.nupkg.sha512"
+  ],
+  "logs": []
+}
